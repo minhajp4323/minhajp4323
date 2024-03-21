@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajp4323&label=Profile%20views&color=0e75b6&style=flat" alt="MinhajP" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ajmalop" target="blank"><img src="https://img.shields.io/twitter/follow/AjmalOP?logo=linkedin&style=for-the-badge" alt="AjmalOP" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/minhajp4323" target="blank"><img src="https://img.shields.io/twitter/follow/AjmalOP?logo=linkedin&style=for-the-badge" alt="MinhajP" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce website](https://minhajp4323.github.io/e-commerse/) 
 

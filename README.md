@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhaj P</h1>
-<h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | .Net </h3>
+<h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | Node| MongoDb | Express </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjmalOP&label=Profile%20views&color=0e75b6&style=flat" alt="AjmalOP" /> </p>

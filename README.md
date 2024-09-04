@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/minhajp4323" target="blank"><img src="https://img.shields.io/twitter/follow/Minhaj P?logo=linkedin&style=for-the-badge" alt="MinhajP" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://minhajp4323.github.io/e-commerse/) 
+- 🔭 I’m currently working on [Travel Planning Website](https://minhajp4323.github.io/e-commerse/) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhajp4323]
 

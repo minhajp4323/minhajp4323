@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhajp4323]
 
-- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , MongoDB, NODE , EXPRESS , Tech , Computer Languages
+- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , MongoDB, NODE.JS , EXPRESS , Tech , Computer Languages , Tailwind css
 
 - 📫 How to reach me  [minhajp4323@gmail.com]
 

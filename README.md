@@ -1,59 +1,86 @@
 <h1 align="center">Hi 👋, I'm Minhaj P</h1>
-<h3 align="center">A passionate and aspiring full-stack web developer from India | React | Node | MongoDB | Express</h3>
+<h3 align="center">Full Stack Developer | MERN & Beyond | SaaS Enthusiast | Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajp4323&label=Profile%20views&color=0e75b6&style=flat" alt="MinhajP" /> </p>
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/minhajp4323" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Minhaj P?logo=linkedin&style=for-the-badge" alt="MinhajP" />
-  </a> 
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/minhajp4323](https://github.com/minhajp4323)  
-- 💬 Ask me about HTML, CSS, Bootstrap, JS, React, Redux, MongoDB, Node.js, Express, Tech, Computer Languages, Tailwind CSS  
-- 📫 How to reach me: **minhajp4323@gmail.com**  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/minhaj_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/minhajp4323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23369723/minhaj-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/minhajp4323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.facebook.com/minhaj.perinkadakkat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.instagram.com/minhaj_bin_koya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://leetcode.com/Minhajp4323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhajp" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" alt="node.js" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/cloud/atlas/register" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDb" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=minhajp4323&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
 
+### 🚀 About Me
+- 💻 Full Stack Developer specializing in **React.js, Node.js, Express, MongoDB, PostgreSQL, Next.js, Nest.js**
+- ⚡ Experienced in building **multi-domain apps on a single server**
+- 🛠 Currently creating **SaaS, OTT platforms, HRM systems**
+- 📚 Passion for **performance optimization** and **clean UI/UX**
+- 📫 Reach me at **minhajp4323@gmail.com**
+- 🌍 [Portfolio](https://github.com/minhajp4323)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://twitter.com/minhaj_23" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/minhajp4323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/23369723/minhaj-p" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.instagram.com/minhaj_bin_koya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/Minhajp4323/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+#### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Tools & Others**
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhajp4323&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhajp4323&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhajp4323&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajp4323&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajp4323&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhajp4323&theme=tokyonight" alt="Total Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhajp4323&theme=tokyonight" alt="Profile Details" />
 </p>
+
+---
+
+### 🎯 Current Focus
+- Building **scalable SaaS platforms**
+- Enhancing **OTT platform with PostgreSQL + Express.js**
+- Improving **multi-domain MERN hosting techniques**
+- Optimizing **Next.js static deployments**
+
+---
